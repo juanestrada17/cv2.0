@@ -1,0 +1,124 @@
+body{
+  margin: 0;
+  text-align: center;
+}
+
+h1{
+  width: 20%;
+  margin: 50px auto 0 auto;
+  font-family: 'Syne Mono', monospace;
+  font-size: 3rem;
+  color: #151D3B;
+}
+
+h2{
+  font-size: 3rem;
+  font-family: 'Syne Mono', monospace;
+  color: #151D3B;
+  font-weight: normal;
+}
+
+h3{
+  font-size: 2rem;
+  font-family: 'Syne Mono', monospace;
+  color: #11999E;
+}
+
+p{
+  font-size: 1.5rem;
+  font-family: 'Syne Mono', monospace;
+}
+
+hr {
+  border-style: none;
+  border-top: slateblue 10px dotted;
+  width: 5%;
+  margin-top: 100px
+}
+
+.footer-link:hover{
+  color: #EAF6F6;
+}
+
+.dec{
+  margin: auto;
+  width: 40%;
+  line-height: 2;
+}
+
+.Sans{
+  background-color: #488FB1;
+  position: relative;
+  padding-top: 100px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 550px;
+  top: 50px;
+}
+
+
+.bottom-cloud{
+  position: absolute;
+  left: 550px;
+  bottom: 300px;
+}
+
+.teach-image{
+  width:25%;
+  float:left;
+}
+
+.program-image{
+  width: 25%;
+  float:right;
+  margin: 50px auto 0 auto;
+}
+
+.bottom-container{
+  margin-bottom: 0;
+  background-color: #488FB1;
+  color: #151D3B;
+  height: 150px;
+}
+
+.copywrite{
+  padding-top: 25px;
+}
+
+.footer-link{
+  display: inline-block;
+  font-size: 1.5rem;
+  margin-top: 30px;
+  margin-right: 30px;
+  color: #151D3B;
+  font-family: 'Syne Mono', monospace;
+  text-decoration: none;
+}
+
+.btn{
+  line-height: 4;
+  background: #57c5e0;
+  background-image: -webkit-linear-gradient(top, #57c5e0, #5eb2d9);
+  background-image: -moz-linear-gradient(top, #57c5e0, #5eb2d9);
+  background-image: -ms-linear-gradient(top, #57c5e0, #5eb2d9);
+  background-image: -o-linear-gradient(top, #57c5e0, #5eb2d9);
+  background-image: linear-gradient(to bottom, #57c5e0, #5eb2d9);
+  -webkit-border-radius: 7;
+  -moz-border-radius: 7;
+  border-radius: 7px;
+  text-shadow: 1px 1px 3px #151D3B;
+  font-family: 'Syne Mono', monospace;
+  color: #ffffff;
+  font-size: 25px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
