@@ -1,1 +1,1 @@
-# cv2.0
+# CV first short project for Web dev bootcamp
